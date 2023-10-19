@@ -1,1 +1,1 @@
-# 14_StockPredictionusing_SVMREGRESSION
+Stock Prediction using SUPPORT VECTOR REGRESSION
